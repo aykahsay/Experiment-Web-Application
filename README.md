@@ -14,7 +14,7 @@ This project focuses on performing an **A/B test analysis** using real-world web
 
 The goal is to:
 
-* Explore user behavior across A/B groups.
+* Meet the 
 * Run **statistical tests** (t-test, chi-square, bootstrap).
 * Visualize the differences between groups.
 * Provide insights on whether the treatment group significantly improves performance.
