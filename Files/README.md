@@ -117,4 +117,18 @@ We use standard A/B testing methodology, including **hypothesis testing**, **exp
 
 ---
 
-👉 Do you want me to also prepare a **visual roadmap diagram (flow: ETL → A/B Test → Dashboard → Results)** for your GitHub repo? That way, anyone visiting will quickly understand your project.
+.AB-Testing-Web-Behavior/
+│── data/
+│   └── data.json              # Your raw dataset
+│── notebooks/
+│   └── analysis.ipynb         # Jupyter notebook for analysis
+│── scripts/
+│   └── preprocess.py          # Data preprocessing script
+│   └── ab_test.py             # A/B test statistical analysis
+│── results/
+│   └── figures/               # Store plots
+│   └── reports/               # Store summary reports
+│── README.md                  # Project documentation
+│── requirements.txt           # Dependencies
+│── LICENSE
+
