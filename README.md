@@ -1,10 +1,4 @@
 # web-ab-testing-analysis
-A/B Testing Analysis of Website Experiments
-Great 🚀 Here’s a **GitHub-ready README** for your A/B Testing project, complete with repository name, project description, dataset source, methodology, and citation:
-
----
-
-# 📊 ab-testing-website-experiments
 
 A/B Testing Analysis of Website Experiments
 
