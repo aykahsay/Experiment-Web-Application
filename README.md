@@ -44,31 +44,18 @@ The goal is to:
 1. **Data Collection**
 
    * Import dataset from OpenML (or provided CSV).
-
-2. **Data Cleaning**
-
-   * Handle missing values.
-   * Ensure balanced distribution across A/B groups.
-
-3. **Exploratory Data Analysis (EDA)**
-
-   * Visualize group sizes and user behavior distributions.
-   * Identify patterns and anomalies.
-
-4. **Statistical Testing**
-
-   * Apply **t-test** or **Chi-Square test** for significance.
-   * Calculate effect size.
-   * Run bootstrap simulation for robust results.
-
-5. **Result Interpretation**
+  
+2. **Extract, Transform, Load**
+3. **Chi-square test**
+4. **Result Interpretation**
 
    * Does the treatment group (B) significantly outperform the control (A)?
    * Provide confidence intervals and recommendations.
 
-6. **Visualization**
+5. **Visualization**
 
    * Bar plots, histograms, boxplots, confidence intervals.
+6. *Experiment Web Application*
 
 ---
 
