@@ -49,15 +49,7 @@ The goal is to:
 5. **Visualization**
 
    * Bar plots, histograms, boxplots, confidence intervals.
-6. *Experiment Web Application*
-
----
-
-## 📑 Citation
-
-If you use this dataset, please cite OpenML:
-
-> Vanschoren, J., Van Rijn, J. N., Bischl, B., & Torgo, L. (2014). **OpenML: networked science in machine learning**. *ACM SIGKDD Explorations Newsletter*, 15(2), 49-60. [https://www.openml.org/d/44152](https://www.openml.org/d/44152)
+6. **Experiment Web Application**
 
 ---
 
